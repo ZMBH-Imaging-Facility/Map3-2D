@@ -1,2 +1,2 @@
 # Map3-2D
-Projecting multi-dimensional (3D-5D) fluorescence microscopy image data onto 2D maps.
+A freely available software to accurately project multi-dimensional (3D-5D) fluorescence microscopy image data onto 2D maps. Similar to the Earth's projection onto cartographic maps, Map3-2D unfolds surface information from a stack of images onto a single, structurally interconnected map. By cross-referencing between the 2D map and the original image stack, precise quantitative analyses of intensities and shapes are easily and intuitively executable. 
