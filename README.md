@@ -3,7 +3,13 @@ A freely available software to accurately project multi-dimensional (3D-5D) fluo
 <br />
 http://www.zmbh.uni-heidelberg.de/Central_Services/Imaging_Facility/Map3-2d.html
 <br />
+<br />
+Publication:
+<br />
 2D map projections for visualization and quantitative analysis of 3D fluorescence micrographs
+<br />
 G. Hernán Sendra, Christian H. Hoerth, Christian Wunder and Holger Lorenz
+<br />
 Scientific Reports 5, 12457 (2015), doi:10.1038/srep12457
+<br />
 http://www.nature.com/articles/srep12457
